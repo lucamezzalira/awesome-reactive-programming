@@ -61,6 +61,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin  
 
 #### SAM Architecture
+[SAM Pattern](http://sam.js.org/)    
 [Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks) - J. Dubray   
 
 
