@@ -28,26 +28,34 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 
 
 ### Articles
+
+#### Rx.JS
 [ReactiveX](http://reactivex.io/)    
 [ReactiveX tutorials](http://reactivex.io/tutorials.html)    
 [Rx.JS 5 manual](http://reactivex.io/rxjs/manual/)    
-[Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks) - J. Dubray    
 [Testing RxJS Apps with Marble Diagrams](https://www.ericponto.com/blog/2017/01/08/rxjs-marble-diagram-tests-with-qunit/) - E. Ponto    
-[Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
-[Write React-Native apps in 2017 style with MobX](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb) - W. Szafraniec    
-[Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/?utm_content=buffer8e86e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R. Wieruch     
-[The fundamental principles behind MobX](https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8) - M. Weststrate        
-[MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate     
-[Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
 [Understanding the observable type](http://nick.balestra.ch/2016/Understanding-the-observable-type/) - N. Balestra   
 [Understanding the observable type - pt 2](http://nick.balestra.ch/2016/creating-observables/) - N. Balestra   
 [Understanding the observable type - pt 3](http://nick.balestra.ch/2016/composing-observables/) - N. Balestra   
 [7 Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators) - V. Tunru     
 [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
+
+#### MobX
+[Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
+[Write React-Native apps in 2017 style with MobX](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb) - W. Szafraniec  
+[Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/?utm_content=buffer8e86e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R. Wieruch     
+[The fundamental principles behind MobX](https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8) - M. Weststrate        
+[MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate    
+
+#### Cycle.JS
+[Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
 [Using Cycle.js to view real-time satellite test data](http://futurice.com/blog/using-cycle-dot-js-to-view-real-time-satellite-test-data) - J. Van Brügge    
 [Cold and hot callbacks](http://staltz.com/cold-and-hot-callbacks.html) - A. Staltz     
-[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin    
+[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin  
+
+#### SAM Architecture
+[Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks) - J. Dubray   
 
 
 ### Books     
@@ -60,24 +68,31 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 
 
 ### Videos
+#### General
 [Unidirectional data flow architectures](https://www.youtube.com/watch?v=1c6XiQsnh_U&t=1s) - A. Staltz    
+[MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw) - G. Bahmutov   
+[Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis) - J. Phelps    
+
+#### Rx.JS
 [You will learn Rx.JS](https://www.youtube.com/watch?v=uQ1zhJHclvs) - A. Staltz   
-[Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - A. Staltz    
-[Brain as building block](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - A. Staltz   
 [State of RxJS Jan '17](https://www.youtube.com/watch?v=7DE37wK0d9I) - B. Lesh    
 [RxJS 5 Thinking Reactively](https://www.youtube.com/watch?v=3LKMwkuK0ZE) - B. Lesh    
 [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - J. Phelps    
 [Async Redux Actions With RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c) - B. Lesh   
-[MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw) - G. Bahmutov   
-[Angular 2 Http - Working with RxJS Observables](https://www.youtube.com/watch?v=BzmuEhBc3yk) - A. Towfeek    
+[Angular 2 Http - Working with RxJS Observables](https://www.youtube.com/watch?v=BzmuEhBc3yk) - A. Towfeek 
+  
 [Reactive Angular 2](https://www.oreilly.com/learning/reactive-angular-2?utm_source=oreilly&utm_medium=newsite&utm_campaign=web-trends-on-our-radar-in-2017) - R. Wormald    
 [RxJS: destroy the state machine!](https://www.youtube.com/watch?v=1abiJ9VBsDc) - S. Jerkku    
 [RxJS 5 in-depth](https://www.youtube.com/watch?v=KTlay8cZdAk) - G. Sans    
 [Reactive Angular 2 Applications with RxJS (ASL)](https://www.youtube.com/watch?v=YiDrd1GLpxc) - S. Muller   
+#### MobX
 [React, transparent reactive programming and mutable data structures](https://youtu.be/FEwLwiizlk0) - M. Weststrate    
 [Magic MobX become a reactive wizard in 30 minutes](https://www.youtube.com/watch?v=TfxfRkNCnmk) - M. Weststrate    
 [MobX vs Redux: Comparing the Opposing Paradigms](https://www.youtube.com/watch?v=76FRrbY18Bs) - P. Kasireddy    
-[Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis) - J. Phelps    
+
+#### Cycle.JS
+[Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - A. Staltz    
+[Brain as building block](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - A. Staltz   
 
 ### Video Training Courses    
 [Reactive JavaScript Programming](https://www.packtpub.com/application-development/reactive-javascript-programming-video) - S. Bhatnagar     
