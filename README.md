@@ -19,6 +19,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [XStream](http://staltz.com/xstream/)    
 [Most](https://github.com/cujojs/most)    
 [Highland](http://highlandjs.org/)    
+[WebRx](https://github.com/WebRxJS/WebRx)    
 
 #### Node
 [Studio.js](https://github.com/ericholiveira/studio)     
