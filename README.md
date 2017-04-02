@@ -8,8 +8,8 @@ In order to contribute please follow these rules:
 
 Feel free to share this repository increasing the knowledge of Reactive Programming around the world!   
 
-### Frameworks/Libraries    
-#### Javascript
+## Frameworks/Libraries    
+### Javascript
 [Rx.JS 4](https://github.com/Reactive-Extensions/RxJS)    
 [Rx.JS 5](https://github.com/ReactiveX/rxjs)     
 [Cycle.js](https://cycle.js.org/)     
@@ -20,22 +20,22 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Most](https://github.com/cujojs/most)    
 [Highland](http://highlandjs.org/)    
 
-#### Node
+### Node
 [Studio.js](https://github.com/ericholiveira/studio)     
 
-#### Tools
+### Tools
 [Draw Cycle](https://github.com/bahmutov/draw-cycle)    
 [Toy RxJS](https://github.com/staltz/toy-rx)    
 [Rx Marbles](http://rxmarbles.com)     
 
-### Articles
+## Articles
 
-#### General
+### General
 [A General Theory of Reactivity](https://github.com/kriskowal/gtor)    
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A. Staltz    
 [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
 
-#### Rx.JS
+### Rx.JS
 [ReactiveX](http://reactivex.io/)    
 [ReactiveX tutorials](http://reactivex.io/tutorials.html)    
 [Rx.JS 5 manual](http://reactivex.io/rxjs/manual/)    
@@ -48,25 +48,25 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov    
 [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh    
 
-#### MobX
+### MobX
 [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
 [Write React-Native apps in 2017 style with MobX](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb) - W. Szafraniec  
 [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/?utm_content=buffer8e86e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R. Wieruch     
 [The fundamental principles behind MobX](https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8) - M. Weststrate        
 [MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate    
 
-#### Cycle.JS
+### Cycle.JS
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
 [Using Cycle.js to view real-time satellite test data](http://futurice.com/blog/using-cycle-dot-js-to-view-real-time-satellite-test-data) - J. Van Brügge    
 [Cold and hot callbacks](http://staltz.com/cold-and-hot-callbacks.html) - A. Staltz     
 [Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin  
 
-#### SAM Architecture
+### SAM Architecture
 [SAM Pattern](http://sam.js.org/)    
 [Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks) - J. Dubray   
 
 
-### Books     
+## Books     
 [Mastering Reactive Javascript](https://www.packtpub.com/web-development/mastering-reactive-javascript) - E. Oliveira     
 [Reactive Programming with JavaScript](https://www.packtpub.com/application-development/reactive-programming-javascript) - J. Hayward     
 [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs) - S. Mansilla    
@@ -75,13 +75,13 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [RxJS in Action](https://www.manning.com/books/rxjs-in-action) - P. Daniels and L. Atencio
 
 
-### Videos
-#### General
+## Videos
+### General
 [Unidirectional data flow architectures](https://www.youtube.com/watch?v=1c6XiQsnh_U&t=1s) - A. Staltz    
 [MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw) - G. Bahmutov   
 [Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis) - J. Phelps    
 
-#### Rx.JS
+### Rx.JS
 [You will learn Rx.JS](https://www.youtube.com/watch?v=uQ1zhJHclvs) - A. Staltz   
 [State of RxJS Jan '17](https://www.youtube.com/watch?v=7DE37wK0d9I) - B. Lesh    
 [RxJS 5 Thinking Reactively](https://www.youtube.com/watch?v=3LKMwkuK0ZE) - B. Lesh    
@@ -92,16 +92,16 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [RxJS: destroy the state machine!](https://www.youtube.com/watch?v=1abiJ9VBsDc) - S. Jerkku    
 [RxJS 5 in-depth](https://www.youtube.com/watch?v=KTlay8cZdAk) - G. Sans    
 [Reactive Angular 2 Applications with RxJS (ASL)](https://www.youtube.com/watch?v=YiDrd1GLpxc) - S. Muller   
-#### MobX
+### MobX
 [React, transparent reactive programming and mutable data structures](https://youtu.be/FEwLwiizlk0) - M. Weststrate    
 [Magic MobX become a reactive wizard in 30 minutes](https://www.youtube.com/watch?v=TfxfRkNCnmk) - M. Weststrate    
 [MobX vs Redux: Comparing the Opposing Paradigms](https://www.youtube.com/watch?v=76FRrbY18Bs) - P. Kasireddy    
 
-#### Cycle.JS
+### Cycle.JS
 [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - A. Staltz    
 [Brain as building block](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - A. Staltz   
 
-### Video Training Courses    
+## Video Training Courses    
 [Reactive JavaScript Programming](https://www.packtpub.com/application-development/reactive-javascript-programming-video) - S. Bhatnagar     
 [Mastering Meteor: Powerful Reactive Applications with Full-Stack JavaScript](https://www.packtpub.com/web-development/mastering-meteor-powerful-reactive-applications-full-stack-javascript-video) - G. Mcknight     
 [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx) - M. Westrate    
@@ -114,7 +114,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [RxJS Beyond the Basics: Creating Observables from scratch](https://egghead.io/courses/rxjs-beyond-the-basics-creating-observables-from-scratch) - A. Staltz    
 
 
-### Twitter accounts to follow
+## Twitter accounts to follow
 [Ben Lesh](https://twitter.com/BenLesh)   
 [André Staltz](https://twitter.com/andrestaltz)    
 [Michel Weststrate](https://twitter.com/mweststrate)  
@@ -127,7 +127,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Christoffer Noring](https://twitter.com/chris_noring)    
 [Denis Stoyanov](https://twitter.com/xgrommx)    
 
-### Communities  
+## Communities  
 [Rx.JS on Gitter](https://gitter.im/Reactive-Extensions/RxJS?utm_source=share-link&utm_medium=link&utm_campaign=share-link)   
 [Cycle.js on Gitter](https://gitter.im/cyclejs/cyclejs?utm_source=share-link&utm_medium=link&utm_campaign=share-link)     
 [MobX on Gitter](https://gitter.im/mobxjs/mobx?utm_source=share-link&utm_medium=link&utm_campaign=share-link)    
