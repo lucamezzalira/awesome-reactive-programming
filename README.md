@@ -45,6 +45,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Understanding the observable type - pt 3](http://nick.balestra.ch/2016/composing-observables/) - N. Balestra   
 [7 Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators) - V. Tunru     
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
+[Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov    
 
 #### MobX
 [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
@@ -122,6 +123,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Robin Wieruch](https://twitter.com/rwieruch)     
 [Gerard Sans](https://twitter.com/gerardsans)    
 [Christoffer Noring](https://twitter.com/chris_noring)    
+[Denis Stoyanov](https://twitter.com/xgrommx)    
 
 ### Communities  
 [Rx.JS on Gitter](https://gitter.im/Reactive-Extensions/RxJS?utm_source=share-link&utm_medium=link&utm_campaign=share-link)   
