@@ -38,6 +38,9 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Understanding the observable type](http://nick.balestra.ch/2016/Understanding-the-observable-type/) - N. Balestra   
 [Understanding the observable type - pt 2](http://nick.balestra.ch/2016/creating-observables/) - N. Balestra   
 [Understanding the observable type - pt 3](http://nick.balestra.ch/2016/composing-observables/) - N. Balestra   
+[7 Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators) - V. Tunru     
+[Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
+[Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
 
 ### Books     
 [Mastering Reactive Javascript](https://www.packtpub.com/web-development/mastering-reactive-javascript) - E. Oliveira     
