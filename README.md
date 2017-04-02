@@ -24,8 +24,12 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 #### Tools
 [Draw Cycle](https://github.com/bahmutov/draw-cycle)    
 [Toy RxJS](https://github.com/staltz/toy-rx)    
+[Rx Marbles](http://rxmarbles.com)     
+
 
 ### Articles
+[ReactiveX](http://reactivex.io/)    
+[ReactiveX tutorials](http://reactivex.io/tutorials.html)    
 [Rx.JS 5 manual](http://reactivex.io/rxjs/manual/)    
 [Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks) - J. Dubray    
 [Testing RxJS Apps with Marble Diagrams](https://www.ericponto.com/blog/2017/01/08/rxjs-marble-diagram-tests-with-qunit/) - E. Ponto    
@@ -98,3 +102,9 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Robin Wieruch](https://twitter.com/rwieruch)     
 [Gerard Sans](https://twitter.com/gerardsans)    
 [Christoffer Noring](https://twitter.com/chris_noring)    
+
+### Communities  
+[Rx.JS on Gitter](https://gitter.im/Reactive-Extensions/RxJS?utm_source=share-link&utm_medium=link&utm_campaign=share-link)   
+[Cycle.js on Gitter](https://gitter.im/cyclejs/cyclejs?utm_source=share-link&utm_medium=link&utm_campaign=share-link)     
+[MobX on Gitter](https://gitter.im/mobxjs/mobx?utm_source=share-link&utm_medium=link&utm_campaign=share-link)    
+[SAM architecture on Gitter](https://gitter.im/jdubray/sam-architecture?utm_source=share-link&utm_medium=link&utm_campaign=share-link)    
