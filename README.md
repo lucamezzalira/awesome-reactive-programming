@@ -68,8 +68,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Reactive Angular 2 Applications with RxJS (ASL)](https://www.youtube.com/watch?v=YiDrd1GLpxc) - S. Muller   
 [React, transparent reactive programming and mutable data structures](https://youtu.be/FEwLwiizlk0) - M. Weststrate    
 [Magic MobX become a reactive wizard in 30 minutes](https://www.youtube.com/watch?v=TfxfRkNCnmk) - M. Weststrate    
-[MobX vs Redux: Comparing the Opposing Paradigms](https://www.youtube.com/watch?v=76FRrbY18Bs) - P. Kasireddy
-
+[MobX vs Redux: Comparing the Opposing Paradigms](https://www.youtube.com/watch?v=76FRrbY18Bs) - P. Kasireddy    
+[Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis) - J. Phelps    
 
 ### Video Training Courses    
 [Reactive JavaScript Programming](https://www.packtpub.com/application-development/reactive-javascript-programming-video) - S. Bhatnagar     
