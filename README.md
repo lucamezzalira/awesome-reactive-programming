@@ -1,4 +1,4 @@
-# awesome-reactive-programming
+# Awesome Reactive Programming
 A repository for sharing all the resources available on Reactive Programming and Reactive Systems
 
 In order to contribute please follow these rules:
