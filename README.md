@@ -41,6 +41,10 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [7 Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators) - V. Tunru     
 [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
+[Using Cycle.js to view real-time satellite test data](http://futurice.com/blog/using-cycle-dot-js-to-view-real-time-satellite-test-data) - J. Van Brügge    
+[Cold and hot callbacks](http://staltz.com/cold-and-hot-callbacks.html) - A. Staltz     
+[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin    
+
 
 ### Books     
 [Mastering Reactive Javascript](https://www.packtpub.com/web-development/mastering-reactive-javascript) - E. Oliveira     
