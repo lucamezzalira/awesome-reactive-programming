@@ -118,6 +118,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Ben Lesh](https://twitter.com/BenLesh)   
 [André Staltz](https://twitter.com/andrestaltz)    
 [Michel Weststrate](https://twitter.com/mweststrate)  
+[Jay Phelps](https://twitter.com/_jayphelps)
 [Matt Podwysocki](https://twitter.com/mattpodwysocki)     
 [Nick Balestra](https://twitter.com/nickbalestra)   
 [Erich Oliveira](https://twitter.com/Oliveira_Erich)    
