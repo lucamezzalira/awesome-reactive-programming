@@ -13,14 +13,15 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Rx.JS 4](https://github.com/Reactive-Extensions/RxJS)    
 [Rx.JS 5](https://github.com/ReactiveX/rxjs)     
 [Cycle.js](https://cycle.js.org/)     
-[MobX](https://mobx.js.org/)    
-[Draw Cycle](https://github.com/bahmutov/draw-cycle)    
-
-
+[MobX](https://mobx.js.org/)       
+[Bacon.js](https://baconjs.github.io/)    
+[Kefir.js](https://rpominov.github.io/kefir/)    
 
 #### Node
 [Studio.js](https://github.com/ericholiveira/studio)     
 
+#### Tools
+[Draw Cycle](https://github.com/bahmutov/draw-cycle)    
 
 ### Articles
 [Rx.JS 5 manual](http://reactivex.io/rxjs/manual/)    
