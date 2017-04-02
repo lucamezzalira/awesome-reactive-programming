@@ -16,12 +16,14 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [MobX](https://mobx.js.org/)       
 [Bacon.js](https://baconjs.github.io/)    
 [Kefir.js](https://rpominov.github.io/kefir/)    
+[XStream](http://staltz.com/xstream/)    
 
 #### Node
 [Studio.js](https://github.com/ericholiveira/studio)     
 
 #### Tools
 [Draw Cycle](https://github.com/bahmutov/draw-cycle)    
+[Toy RxJS](https://github.com/staltz/toy-rx)    
 
 ### Articles
 [Rx.JS 5 manual](http://reactivex.io/rxjs/manual/)    
