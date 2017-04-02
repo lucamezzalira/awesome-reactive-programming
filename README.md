@@ -88,7 +88,6 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - J. Phelps    
 [Async Redux Actions With RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c) - B. Lesh   
 [Angular 2 Http - Working with RxJS Observables](https://www.youtube.com/watch?v=BzmuEhBc3yk) - A. Towfeek 
-  
 [Reactive Angular 2](https://www.oreilly.com/learning/reactive-angular-2?utm_source=oreilly&utm_medium=newsite&utm_campaign=web-trends-on-our-radar-in-2017) - R. Wormald    
 [RxJS: destroy the state machine!](https://www.youtube.com/watch?v=1abiJ9VBsDc) - S. Jerkku    
 [RxJS 5 in-depth](https://www.youtube.com/watch?v=KTlay8cZdAk) - G. Sans    
@@ -119,7 +118,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Ben Lesh](https://twitter.com/BenLesh)   
 [André Staltz](https://twitter.com/andrestaltz)    
 [Michel Weststrate](https://twitter.com/mweststrate)  
-[Jay Phelps](https://twitter.com/_jayphelps)
+[Jay Phelps](https://twitter.com/_jayphelps)      
 [Matt Podwysocki](https://twitter.com/mattpodwysocki)     
 [Nick Balestra](https://twitter.com/nickbalestra)   
 [Erich Oliveira](https://twitter.com/Oliveira_Erich)    
