@@ -17,6 +17,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Bacon.js](https://baconjs.github.io/)    
 [Kefir.js](https://rpominov.github.io/kefir/)    
 [XStream](http://staltz.com/xstream/)    
+[Most](https://github.com/cujojs/most)    
+[Highland](http://highlandjs.org/)    
 
 #### Node
 [Studio.js](https://github.com/ericholiveira/studio)     
@@ -26,8 +28,12 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Toy RxJS](https://github.com/staltz/toy-rx)    
 [Rx Marbles](http://rxmarbles.com)     
 
-
 ### Articles
+
+#### General
+[A General Theory of Reactivity](https://github.com/kriskowal/gtor)    
+[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A. Staltz    
+[Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
 
 #### Rx.JS
 [ReactiveX](http://reactivex.io/)    
@@ -38,7 +44,6 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Understanding the observable type - pt 2](http://nick.balestra.ch/2016/creating-observables/) - N. Balestra   
 [Understanding the observable type - pt 3](http://nick.balestra.ch/2016/composing-observables/) - N. Balestra   
 [7 Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators) - V. Tunru     
-[Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
 
 #### MobX
