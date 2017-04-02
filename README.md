@@ -82,7 +82,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 ### Twitter accounts to follow
 [Ben Lesh](https://twitter.com/BenLesh)   
 [André Staltz](https://twitter.com/andrestaltz)    
-[Michel Weststrate](https://twitter.com/mweststrate)    
+[Michel Weststrate](https://twitter.com/mweststrate)  
+[Matt Podwysocki](https://twitter.com/mattpodwysocki)     
 [Nick Balestra](https://twitter.com/nickbalestra)   
 [Erich Oliveira](https://twitter.com/Oliveira_Erich)    
 [Robin Wieruch](https://twitter.com/rwieruch)     
