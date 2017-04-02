@@ -32,8 +32,9 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [The fundamental principles behind MobX](https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8) - M. Weststrate        
 [MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate     
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
-
-
+[Understanding the observable type](http://nick.balestra.ch/2016/Understanding-the-observable-type/) - N. Balestra   
+[Understanding the observable type - pt 2](http://nick.balestra.ch/2016/creating-observables/) - N. Balestra   
+[Understanding the observable type - pt 3](http://nick.balestra.ch/2016/composing-observables/) - N. Balestra   
 
 ### Books     
 [Mastering Reactive Javascript](https://www.packtpub.com/web-development/mastering-reactive-javascript) - E. Oliveira     
@@ -81,6 +82,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Ben Lesh](https://twitter.com/BenLesh)   
 [André Staltz](https://twitter.com/andrestaltz)    
 [Michel Weststrate](https://twitter.com/mweststrate)    
+[Nick Balestra](https://twitter.com/nickbalestra)   
 [Erich Oliveira](https://twitter.com/Oliveira_Erich)    
 [Robin Wieruch](https://twitter.com/rwieruch)     
 [Gerard Sans](https://twitter.com/gerardsans)    
