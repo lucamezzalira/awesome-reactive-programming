@@ -48,10 +48,10 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Understanding the observable type - pt 3](http://nick.balestra.ch/2016/composing-observables/) - N. Balestra   
 [7 Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators) - V. Tunru     
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
-[Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov    
-[Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh    
-[Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar
-[What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic
+[Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov     
+[Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh     
+[Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar  
+[What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic  
 
 ### MobX
 [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
