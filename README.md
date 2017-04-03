@@ -92,6 +92,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [RxJS: destroy the state machine!](https://www.youtube.com/watch?v=1abiJ9VBsDc) - S. Jerkku    
 [RxJS 5 in-depth](https://www.youtube.com/watch?v=KTlay8cZdAk) - G. Sans    
 [Reactive Angular 2 Applications with RxJS (ASL)](https://www.youtube.com/watch?v=YiDrd1GLpxc) - S. Muller   
+[Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - [A. Sureshkumar](https://twitter.com/Sureshkumar_Ash)
+
 ### MobX
 [React, transparent reactive programming and mutable data structures](https://youtu.be/FEwLwiizlk0) - M. Weststrate    
 [Magic MobX become a reactive wizard in 30 minutes](https://www.youtube.com/watch?v=TfxfRkNCnmk) - M. Weststrate    
