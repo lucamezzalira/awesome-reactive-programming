@@ -34,9 +34,9 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [A General Theory of Reactivity](https://github.com/kriskowal/gtor)    
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A. Staltz    
 [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
-[What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc) - K. Webber
-[A Journey into Reactive Streams](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29) - K. Webber
-[Rx — If the Operators could speak!](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1) - A. RizWan
+[What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc) - K. Webber  
+[A Journey into Reactive Streams](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29) - K. Webber  
+[Rx — If the Operators could speak!](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1) - A. RizWan  
 
 ### Rx.JS
 [ReactiveX](http://reactivex.io/)    
@@ -64,7 +64,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
 [Using Cycle.js to view real-time satellite test data](http://futurice.com/blog/using-cycle-dot-js-to-view-real-time-satellite-test-data) - J. Van Brügge    
 [Cold and hot callbacks](http://staltz.com/cold-and-hot-callbacks.html) - A. Staltz     
-[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin
+[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin  
 [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872) - F. Krautwald
 
 ### SAM Architecture
@@ -93,7 +93,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [RxJS 5 Thinking Reactively](https://www.youtube.com/watch?v=3LKMwkuK0ZE) - B. Lesh    
 [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - J. Phelps    
 [Async Redux Actions With RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c) - B. Lesh   
-[Angular 2 Http - Working with RxJS Observables](https://www.youtube.com/watch?v=BzmuEhBc3yk) - A. Towfeek 
+[Angular 2 Http - Working with RxJS Observables](https://www.youtube.com/watch?v=BzmuEhBc3yk) - A. Towfeek  
 [Reactive Angular 2](https://www.oreilly.com/learning/reactive-angular-2?utm_source=oreilly&utm_medium=newsite&utm_campaign=web-trends-on-our-radar-in-2017) - R. Wormald    
 [RxJS: destroy the state machine!](https://www.youtube.com/watch?v=1abiJ9VBsDc) - S. Jerkku    
 [RxJS 5 in-depth](https://www.youtube.com/watch?v=KTlay8cZdAk) - G. Sans    
