@@ -34,6 +34,9 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [A General Theory of Reactivity](https://github.com/kriskowal/gtor)    
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A. Staltz    
 [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
+[What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc) - K. Webber
+[A Journey into Reactive Streams](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29) - K. Webber
+[Rx — If the Operators could speak!](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1) - A. RizWan
 
 ### Rx.JS
 [ReactiveX](http://reactivex.io/)    
@@ -48,6 +51,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov    
 [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh    
 [Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar
+[What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic
 
 ### MobX
 [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
@@ -60,7 +64,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
 [Using Cycle.js to view real-time satellite test data](http://futurice.com/blog/using-cycle-dot-js-to-view-real-time-satellite-test-data) - J. Van Brügge    
 [Cold and hot callbacks](http://staltz.com/cold-and-hot-callbacks.html) - A. Staltz     
-[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin  
+[Cycle.js, RxJS and cold observables](http://blog.thomasbelin.fr/p/cyclejs-rx-newbie-trap/) - T. Belin
+[Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872) - F. Krautwald
 
 ### SAM Architecture
 [SAM Pattern](http://sam.js.org/)    
