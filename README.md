@@ -47,7 +47,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
 [Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov    
 [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh    
-[Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar
+[Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar     
+[Becoming more reactive with RxJS flatMap and switchMap](https://medium.com/@w.dave.w/becoming-more-reactive-with-rxjs-flatmap-and-switchmap-ccd3fb7b67fa) - D. Wilson   
 
 ### MobX
 [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
