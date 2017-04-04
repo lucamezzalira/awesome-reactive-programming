@@ -60,7 +60,9 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Write React-Native apps in 2017 style with MobX](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb) - W. Szafraniec  
 [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/?utm_content=buffer8e86e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R. Wieruch     
 [The fundamental principles behind MobX](https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8) - M. Weststrate        
-[MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate    
+[MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate  
+[Enjoying MobX, JSX and virtual-dom](https://medium.com/@botverse/enjoying-mobx-jsx-and-virtual-dom-621dcc2a2bd5) - A. Osa  
+[Using Mobx and React to build an instant search](https://sergiotapia.me/using-mobx-and-react-to-build-an-instant-search-3eae1dd20cbd) - S. Tapia
 
 ### Cycle.JS
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
