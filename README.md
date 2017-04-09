@@ -19,6 +19,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [XStream](http://staltz.com/xstream/)    
 [Most](https://github.com/cujojs/most)    
 [Highland](http://highlandjs.org/)    
+[Cyclow](http://cyclow.js.org/)     
 
 ### Node
 [Studio.js](https://github.com/ericholiveira/studio)     
@@ -52,7 +53,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh     
 [Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar  
 [Becoming more reactive with RxJS flatMap and switchMap](https://medium.com/@w.dave.w/becoming-more-reactive-with-rxjs-flatmap-and-switchmap-ccd3fb7b67fa) - D. Wilson  
-[What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic  
+[What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic     
+[RxJS switch, switchMap, and other map operations](https://medium.com/@ExplosionPills/rxjs-switch-switchmap-and-other-map-operations-e8ccdfb7e5a9) - A. Crites     
 
 
 ### MobX
