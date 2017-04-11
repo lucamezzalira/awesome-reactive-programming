@@ -28,6 +28,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Draw Cycle](https://github.com/bahmutov/draw-cycle)    
 [Toy RxJS](https://github.com/staltz/toy-rx)    
 [Rx Marbles](http://rxmarbles.com)     
+[Delorean](https://github.com/BrascoJS/delorean)     
 
 ## Articles
 
@@ -64,7 +65,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [The fundamental principles behind MobX](https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8) - M. Weststrate        
 [MobX 3 released: Unpeeling the onion](https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443) - M. Weststrate  
 [Enjoying MobX, JSX and virtual-dom](https://medium.com/@botverse/enjoying-mobx-jsx-and-virtual-dom-621dcc2a2bd5) - A. Osa  
-[Using Mobx and React to build an instant search](https://sergiotapia.me/using-mobx-and-react-to-build-an-instant-search-3eae1dd20cbd) - S. Tapia
+[Using Mobx and React to build an instant search](https://sergiotapia.me/using-mobx-and-react-to-build-an-instant-search-3eae1dd20cbd) - S. Tapia     
+[React Navigation with MobX](https://medium.com/@pxue/react-navigation-with-mobx-2064fcdaa25b) - P. Xue     
 
 ### Cycle.JS
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
@@ -108,7 +110,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 ### MobX
 [React, transparent reactive programming and mutable data structures](https://youtu.be/FEwLwiizlk0) - M. Weststrate    
 [Magic MobX become a reactive wizard in 30 minutes](https://www.youtube.com/watch?v=TfxfRkNCnmk) - M. Weststrate    
-[MobX vs Redux: Comparing the Opposing Paradigms](https://www.youtube.com/watch?v=76FRrbY18Bs) - P. Kasireddy    
+[MobX vs Redux: Comparing the Opposing Paradigms](https://www.youtube.com/watch?v=76FRrbY18Bs) - P. Kasireddy     
+[Comparing Redux and MobX with two CTO's and React experts - state management using reactjs](https://www.youtube.com/watch?v=ZGVwMkrL2n0) - I. Zayats & P. Ramon         
 
 ### Cycle.JS
 [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - A. Staltz    
