@@ -67,6 +67,12 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Enjoying MobX, JSX and virtual-dom](https://medium.com/@botverse/enjoying-mobx-jsx-and-virtual-dom-621dcc2a2bd5) - A. Osa  
 [Using Mobx and React to build an instant search](https://sergiotapia.me/using-mobx-and-react-to-build-an-instant-search-3eae1dd20cbd) - S. Tapia     
 [React Navigation with MobX](https://medium.com/@pxue/react-navigation-with-mobx-2064fcdaa25b) - P. Xue     
+[State Management & Hydration with MobX](https://medium.com/@foxhound87/state-management-hydration-with-mobx-we-must-react-ep-05-1922a72453c6) - C. Savino    
+[Next.js meets Firebase and mobx | I](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-b3ae90d5b879) - Sakulstra     
+[Next.js meets Firebase and mobx | II](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-ii-f89a6bbe7521) - Sakulstra     
+[Next.js meets Firebase and mobx | III](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-iii-1da7cefa9d25) - Sakulstra     
+[Next.js meets Firebase and mobx | IV](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-iv-903b3022d0b4) - Sakulstra       
+[Why We Chose MobX Over Redux For Spectacle Editor](https://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/) - R. Gerstenberger      
 
 ### Cycle.JS
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
