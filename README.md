@@ -38,7 +38,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87) - B. Lesh   
 [What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc) - K. Webber  
 [A Journey into Reactive Streams](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29) - K. Webber  
-[Rx — If the Operators could speak!](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1) - A. RizWan  
+[The Taxonomy of Reactive Programming](https://vsavkin.com/the-taxonomy-of-reactive-programming-d40e2e23dee4?gi=f336f111dfa0) - V. Savkin     
 
 ### Rx.JS
 [ReactiveX](http://reactivex.io/)    
@@ -52,10 +52,12 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625) - N. Carlo    
 [Rx.JS 4 Book](https://xgrommx.github.io/rx-book/index.html) - D. Stoyanov     
 [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e) - P. Singh     
+[Rx — If the Operators could speak!](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1) - A. RizWan     
 [Naive Infinite scroll in Reactive Programming using RxJS Observables](https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8) - A. Sureshkumar  
 [Becoming more reactive with RxJS flatMap and switchMap](https://medium.com/@w.dave.w/becoming-more-reactive-with-rxjs-flatmap-and-switchmap-ccd3fb7b67fa) - D. Wilson  
 [What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic     
 [RxJS switch, switchMap, and other map operations](https://medium.com/@ExplosionPills/rxjs-switch-switchmap-and-other-map-operations-e8ccdfb7e5a9) - A. Crites     
+[Introducing Redux-Fusion: An alternative approach to React-Redux’s connect Method for RxJS Observable State & Components via Recompose](https://medium.com/@benipsen/introducing-redux-fusion-an-alternative-approach-to-react-reduxs-connect-method-for-rxjs-44248895b47d) - B. Ipsen     
 
 
 ### MobX
@@ -73,6 +75,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Next.js meets Firebase and mobx | III](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-iii-1da7cefa9d25) - Sakulstra     
 [Next.js meets Firebase and mobx | IV](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-iv-903b3022d0b4) - Sakulstra       
 [Why We Chose MobX Over Redux For Spectacle Editor](https://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/) - R. Gerstenberger      
+[Building a React & MobX application with MVVM](https://medium.com/react-weekly/building-a-react-mobx-application-with-mvvm-ec0b3e3c8786) - M. Manzati      
 
 ### Cycle.JS
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
@@ -100,6 +103,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Unidirectional data flow architectures](https://www.youtube.com/watch?v=1c6XiQsnh_U&t=1s) - A. Staltz    
 [MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw) - G. Bahmutov   
 [Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis) - J. Phelps    
+[From Inactive to Reactive with ngrx](https://www.youtube.com/watch?v=cyaAhXHhxgk) - B. Roberts & M. Ryan     
 
 ### Rx.JS
 [You will learn Rx.JS](https://www.youtube.com/watch?v=uQ1zhJHclvs) - A. Staltz   
