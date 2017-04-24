@@ -58,6 +58,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [What happens when you use RxJS in React?](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a) - D. Kriskovic     
 [RxJS switch, switchMap, and other map operations](https://medium.com/@ExplosionPills/rxjs-switch-switchmap-and-other-map-operations-e8ccdfb7e5a9) - A. Crites     
 [Introducing Redux-Fusion: An alternative approach to React-Redux’s connect Method for RxJS Observable State & Components via Recompose](https://medium.com/@benipsen/introducing-redux-fusion-an-alternative-approach-to-react-reduxs-connect-method-for-rxjs-44248895b47d) - B. Ipsen     
+[Functional Reactive Game Programming – RxJS Breakout](https://manu.ninja/functional-reactive-game-programming-rxjs-breakout) - M. Wieser      
 
 
 ### MobX
