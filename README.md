@@ -60,7 +60,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Introducing Redux-Fusion: An alternative approach to React-Redux’s connect Method for RxJS Observable State & Components via Recompose](https://medium.com/@benipsen/introducing-redux-fusion-an-alternative-approach-to-react-reduxs-connect-method-for-rxjs-44248895b47d) - B. Ipsen     
 [Functional Reactive Game Programming – RxJS Breakout](https://manu.ninja/functional-reactive-game-programming-rxjs-breakout) - M. Wieser      
 [Making use of RxJS in Angular](https://auth0.com/blog/making-use-of-rxjs-angular) - W. Kwiatek     
-
+[Taking advantage of observables in Angular](https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html) - C. Burgdorf         
 
 ### MobX
 [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254) - M. Weststrate    
