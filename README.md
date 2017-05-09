@@ -78,6 +78,7 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Next.js meets Firebase and mobx | IV](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-iv-903b3022d0b4) - Sakulstra       
 [Why We Chose MobX Over Redux For Spectacle Editor](https://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/) - R. Gerstenberger      
 [Building a React & MobX application with MVVM](https://medium.com/react-weekly/building-a-react-mobx-application-with-mvvm-ec0b3e3c8786) - M. Manzati      
+[React form validation with MobX](https://medium.com/@KozhukharenkoN/react-form-validation-with-mobx-8ce00233ae27) - N. Kozhukharenko       
 
 ### Cycle.JS
 [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/) - G. Bahmutov    
