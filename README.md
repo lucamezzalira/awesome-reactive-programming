@@ -128,7 +128,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 
 ### Cycle.JS
 [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - A. Staltz    
-[Brain as building block](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - A. Staltz   
+[Brain as building block](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - A. Staltz    
+[CycleConf 2017 - all sessions](https://vimeo.com/album/4578937)      
 
 ## Video Training Courses    
 [Reactive JavaScript Programming](https://www.packtpub.com/application-development/reactive-javascript-programming-video) - S. Bhatnagar     
