@@ -99,8 +99,8 @@ Feel free to share this repository increasing the knowledge of Reactive Programm
 [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs) - S. Mansilla    
 [Reactive Programming with Angular and ngrx](http://www.apress.com/gb/book/9781484226193) - O. Farhi   
 [Reactive Programming with Node.js](http://www.apress.com/gb/book/9781484221518) - F. Doglio    
-[RxJS in Action](https://www.manning.com/books/rxjs-in-action) - P. Daniels and L. Atencio
-
+[RxJS in Action](https://www.manning.com/books/rxjs-in-action) - P. Daniels and L. Atencio    
+[Reactive Programming with RxJava](http://shop.oreilly.com/product/0636920042228.do) - Ben Christensen and Tomasz Nurkiewicz
 
 ## Videos
 ### General
